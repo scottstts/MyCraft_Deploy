@@ -1,4 +1,4 @@
-import{M as _,O as R,B,F as M,S as c,U as x,V as n,W as v,H as p,N as E,C as D,a as T,b as f,A as z,c as U,d as A,e as F}from"./three-CckAHwS8.js";const g={name:"CopyShader",uniforms:{tDiffuse:{value:null},opacity:{value:1}},vertexShader:`
+import{M as _,O as R,B,F as M,S as c,U as x,V as n,W as v,H as p,N as E,C as D,a as T,b as f,A as z,c as U,d as A,e as F}from"./three-q4_NEteL.js";const g={name:"CopyShader",uniforms:{tDiffuse:{value:null},opacity:{value:1}},vertexShader:`
 
 		varying vec2 vUv;
 
